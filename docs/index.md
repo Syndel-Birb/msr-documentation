@@ -12,6 +12,8 @@ hide:
 
 The goal of this site is to host information regarding all things Master Sword: Rebirth. In-game knowledge, developer tutorials, guides, maps, or anything else that is found to be relevant. Please find links to various ways to interact with Master Sword: Rebirth on the web in the bottom footnote area.
 
+[Join us on Discord! :simple-discord:](ttps://discord.com/invite/nwJB9EhAN6){ .md-button }
+
 
 ## Overview Pages
 
