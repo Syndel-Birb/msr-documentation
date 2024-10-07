@@ -14,10 +14,9 @@ The names are listed in ABC order.
 
 | Name | Role |
 | ---- | ------------ |
-| BerntA | Core Development |
-| Dark4557 | Public Relations |
+| Dark4557 | Public Relations & Management |
 | Dridmar | Map Development |
-| greatguys | Core Scripting |
+| greatguys | Core Development |
 | Wishbone | Core Development & Project Operations |
 
 ### Developers
@@ -37,13 +36,21 @@ The names are listed in ABC order.
 | p-trick | FuzzNet |
 | The Oyster Hippopotamus | Mapping |
 
+### Ex-Developers
+Some developers who went inactive or have stepped down.
+
+| Name | Role |
+| ---- | ------------ |
+| BerntA | Core Team Member, Founder, Programmer |
+| The Oyster Hippopotamus | Core Team Member & Founder |
+
 ### Original Developers
 
 Over the years of the game/mod there as been a lot of contributions that have made this game possible. [Here](https://msrebirth.com/project/special-thanks.html) is a semi-complete list of those who have made said contributions .
 
-### Community Team
+### Contributions
 
-A thank you to all of our community team members, you can find them on via Discord distinguished in a blue name or under the Mod Team category.
+A thank you to all of our community team members, you can find them on via Discord distinguished in a darker green name.
 
 ### Founders
 
@@ -62,4 +69,4 @@ These are the people who helped found this project.
 
 ### License
 
-The Half-Life SDK code and scripts are licensed under GPL-3.0, which you can find the code [here](https://github.com/MSRevive).
+Generally thirdparty stuff created by us are licensed under GPL3.0. The game code and it's various licenes can be found [here](https://github.com/MSRevive/MasterSwordRebirth/blob/dev/LICENSE)
