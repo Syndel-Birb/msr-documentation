@@ -1,6 +1,9 @@
 site_name: "Master Sword: Rebirth - Documentation Project"
 site_description: "Your one-stop-shop for MS:R info!"
 site_url: https://www.msrebirth.net/
+repo_url: https://github.com/MSRevive/msr-documentation
+repo_name: MS:R Documentation
+edit_uri: edit/main/docs
 theme:
   features:
     - toc.follow
@@ -13,6 +16,8 @@ theme:
     - navigation.tabs.sticky
     - navigation.prune
     - navigation.indexes
+    - content.action.edit
+    - content.action.view
     - content.code.copy
     - content.code.select
     - content.code.annotate
