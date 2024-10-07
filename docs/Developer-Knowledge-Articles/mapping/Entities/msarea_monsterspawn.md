@@ -22,7 +22,6 @@ Brush monster spawns were always iffy, but even more so in MS:C, so don't use br
 
 ```cpp title="Example:" linenums="1"
 {
-"origin" "-2911 -31 32"
 "fireallperish" "finalwave_dead"
 "spawnstart" "1"
 "targetname" "finalwave"

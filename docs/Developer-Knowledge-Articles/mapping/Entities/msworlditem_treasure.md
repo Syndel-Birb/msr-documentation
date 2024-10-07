@@ -25,7 +25,6 @@ The entity used to represent a chest scriptfile in a map.
 ## Example
 ```cpp title="Edana Mayor's Treasure Chest" linenums="1"
  {
-"origin" "380 -984 -248"
 "spawnchance" "100"
 "targetname" "mayorstreasure"
 "scriptfile" "edana/eTC1"

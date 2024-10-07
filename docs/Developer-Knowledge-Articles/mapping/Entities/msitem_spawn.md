@@ -13,7 +13,6 @@
 
 ```cpp title="Medium Health Potion" linenums="1"
  {
-"origin" "2071 911 1432"
 "scriptfile" "health_mpotion"
 "duration" "9999"
 "targetname" "freepot"

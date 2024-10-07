@@ -14,7 +14,6 @@
 
 ```cpp title="10% chance for 'orcraid' to fire, when this entity itelf is triggered." linenums="1"
 {
-"origin" "-1600 -64 96"
 "target" "orcraid"
 "random" "10"
 "triggerstate" "2"

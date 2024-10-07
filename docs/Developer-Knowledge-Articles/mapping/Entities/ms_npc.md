@@ -75,7 +75,6 @@ Any pointentity prefixed with msmonster_ will functionally be identical to ms_np
 
 ```cpp title="Example: A Cave Spider script using the msmonster_giantrat entity for previewing." linenums="1"
 {
-"origin" "-2664 -664 72"
 "targetname" "finalwave_corpses"
 "lives" "1"
 "angles" "0 177 0"

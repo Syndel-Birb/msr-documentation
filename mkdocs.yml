@@ -1,6 +1,6 @@
-site_name: Master Sword Rebirth - Documentation Project
-site_description: Your one-stop-shop for MSR info!
-site_url: https://frendship-loost.github.io/
+site_name: "Master Sword: Rebirth - Documentation Project"
+site_description: "Your one-stop-shop for MS:R info!"
+site_url: https://www.msrebirth.net/
 theme:
   features:
     - toc.follow
@@ -10,7 +10,9 @@ theme:
     - navigation.top
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.prune
+    - navigation.indexes
     - content.code.copy
     - content.code.select
     - content.code.annotate
