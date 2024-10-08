@@ -14,3 +14,5 @@ For compiling the models it's required you use Svencoop's MDL compiler until we 
     [Blender Source Tools: Required addon if you are using Blender as a modeling software, to export .smd format.](https://developer.valvesoftware.com/wiki/Blender_Source_Tools)
 
     [Crowbar: Decompile, compile, and view goldsrc + source models.](https://steamcommunity.com/groups/CrowbarTool)
+
+    [IrfanView: The recommended free image multi-format viewer and converter for texture needs.](https://www.irfanview.com/)
