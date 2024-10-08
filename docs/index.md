@@ -42,7 +42,7 @@ The goal of this site is to host information regarding all things Master Sword: 
 
 ## Contributing
 
-This project needs help from the community to be the best that it can! Want to contribute here or write an article? Check out some of the formatting examples in the "Article Reference Material" section, read the official documentation linked, and then edit or prepare your article. Generally, each article in its respective category should follow a similar format to present information.
+This project needs help from the community to be the best that it can! Want to contribute here or write an article? Check out some of the formatting examples in the "Article Reference Material" section, read the official documentation linked, and then edit or prepare your article. Generally, each article in its respective category should follow a similar format to present information. For your convenience, every page of this site has "View/Edit Source Page" buttons in the top-right corner of the document.
 
 Site pages here are prepared in markdown .md format.
 
@@ -53,6 +53,4 @@ Site pages here are prepared in markdown .md format.
 
     * [Get started typing in your browser for free!](https://dillinger.io/)
 
-* [Here is an example article that I've prepared for the Demon Claws item.](Article-Reference-Material/ingame-article-example.md)
-
-* [And the same file viewed as raw markdown format.](https://raw.githubusercontent.com/MSRevive/msr-documentation/refs/heads/main/docs/Article-Reference-Material/ingame-article-example.md)
+    * [Here is an example article that I've prepared for the Demon Claws item.](Article-Reference-Material/ingame-article-example.md)
