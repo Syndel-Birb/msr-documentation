@@ -1,6 +1,7 @@
 # Modeling Homepage
+There's a few things to keep in mind when modeling for Goldsrc related games. The best place to read up on these things is on [The303's Website](https://the303.org/tutorials/gold_mdl.htm)
 
-This needs to be filled with high quality, relevant information!
+For compiling the models it's required you use Svencoop's MDL compiler until we ship our own some day.
 
 ??? note "Modeling-Specific Tools & Links"
 
