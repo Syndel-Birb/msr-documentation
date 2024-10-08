@@ -23,3 +23,5 @@ Going to need to fill this space in soon.
     [Erty's Map2Prop for goldsrc. Turn your map objects into .mdl files!](https://twhl.info/vault/view/6772)
 
     [Map2Curve: Space age tool that turns map sections into curved versions of themselves, based on many parameters.](http://gibshooter.com/map2curve/)
+
+    [IrfanView: The recommended free image multi-format viewer and converter for texture needs.](https://www.irfanview.com/)
