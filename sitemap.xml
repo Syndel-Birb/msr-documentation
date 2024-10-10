@@ -2,246 +2,366 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.msrebirth.net/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Article-Reference-Material/admonitions/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Article-Reference-Material/content-tabs/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Article-Reference-Material/cpp-example1/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Article-Reference-Material/diagram-examples/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Article-Reference-Material/ingame-article-example/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/Archived-MSC-Patchnotes/2011_JUNa/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/Archived-MSC-Patchnotes/2011_MARa/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/Archived-MSC-Patchnotes/2011_NOVa/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/Archived-MSC-Patchnotes/2011_SEPa/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/Archived-MSC-Patchnotes/2012_APRa/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/Archived-MSC-Patchnotes/2013_FEBa/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/Archived-MSC-Patchnotes/2013_JANa/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/Archived-MSC-Patchnotes/2013_JULa/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/Archived-MSC-Patchnotes/2013_SEPa/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/Archived-MSC-Patchnotes/2015_FEBa/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/Archived-MSC-Patchnotes/2015_FEBd/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/Archived-MSC-Patchnotes/2015_NOVa/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/audio/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/env_model/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/func_monsterclip/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/info_texlights/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/ms_npc/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/ms_npcscript/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/ms_player_begin/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/ms_player_spawn/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/ms_player_spec/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/msarea_monsterspawn/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/msarea_music/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/msarea_transition/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/msitem_spawn/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/mstrig_changelevel/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/mstrig_relay/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/mapping/Entities/msworlditem_treasure/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/misc/github/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/misc/server-setup/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/modeling/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Developer-Knowledge-Articles/programming/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Game-Wiki-Articles/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Game-Wiki-Articles/player-stats/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Items/Fire%20Dart%20Tome/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Items/Glow%20Scroll/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Items/Mana%20Potion/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Items/Medium%20Health%20Potion/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Items/Rejuvenation%20Scroll/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Items/Rejuvenation%20Tome/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Items/Spellbook/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Items/Weak%20Health%20Potion/</loc>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Game-Wiki-Articles/Lore-Articles/lanethan/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Game-Wiki-Articles/Lore-Articles/tales-of-daragoth/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Game-Wiki-Articles/NPCs/friendly/dorfgan/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Game-Wiki-Articles/NPCs/friendly/foglund/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Game-Wiki-Articles/NPCs/monsters/Maldora/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/calruin2/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/undercliffs/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/Edana/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Bertold%20the%20Fletcher/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Bryan%20the%20grocer/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Commoner/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Edric%20of%20Galat%27s%20Storage/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Edrin%2C%20Captain%20of%20the%20Guard/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Foglund%20the%20Merchant/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Hartold%20the%20Mage/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Iron%20Fist%20Ike%2C%20the%20Armourer/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Krythos%20the%20Weaponsmith/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Mayor%27s%20Guard/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Merchant%20Square%20Keeper/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Old%20man/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Priest%20of%20Urdual/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Sembelbin/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Sumdale%20%28Patron%29/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Sylphiel%2C%20the%20waitress/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Traveling%20Merchant/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Tristan/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Urduaf/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana/NPCs/Zerkold%2C%20the%20Mayor/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Edana%20Sewers/Edana%20Sewers/</loc>
+         <lastmod>2024-10-10</lastmod>
+    </url>
+    <url>
+         <loc>https://www.msrebirth.net/Game-Wiki-Articles/Regions/Thornlands/Thornlands/</loc>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Game-Wiki-Articles/items/Armor/acid-plate/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Game-Wiki-Articles/items/Armor/aob/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Game-Wiki-Articles/items/Axes/bloodaxe/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Game-Wiki-Articles/items/Martial-Arts/demon-claws/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Game-Wiki-Articles/items/Swords/hoarfrost/</loc>
-         <lastmod>2024-10-08</lastmod>
-    </url>
-    <url>
-         <loc>https://www.msrebirth.net/Game-Wiki-Articles/maps/calruin2/</loc>
-         <lastmod>2024-10-08</lastmod>
-    </url>
-    <url>
-         <loc>https://www.msrebirth.net/Game-Wiki-Articles/maps/edana/</loc>
-         <lastmod>2024-10-08</lastmod>
-    </url>
-    <url>
-         <loc>https://www.msrebirth.net/Game-Wiki-Articles/maps/undercliffs/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Project-Information/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Project-Information/about/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Project-Information/community/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Project-Information/contribution-terms/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Project-Information/credits/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
     <url>
          <loc>https://www.msrebirth.net/Project-Information/fuzznet/</loc>
-         <lastmod>2024-10-08</lastmod>
+         <lastmod>2024-10-10</lastmod>
     </url>
 </urlset>
