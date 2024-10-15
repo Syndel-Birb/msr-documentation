@@ -1,6 +1,8 @@
 # Audio Homepage
+The best place to read about making custom sounds that aren't music would be [here](https://twhl.info/wiki/page/Tutorial%3A_Making_Custom_Sounds)
 
-This needs to be filled with high quality, relevant information!
+## Music
+Coming soon to a wav near you.
 
 
 ??? note "Audio-Specific Tools & Links"
